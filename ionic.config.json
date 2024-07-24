@@ -1,0 +1,7 @@
+{
+  "name": "IntentErrorTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
